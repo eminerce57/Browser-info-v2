@@ -10,3 +10,6 @@ Projeyi Başlatmak İçin
 NODE js yüklü olması gerekir
 Sonrasında "npm i" komutunu terminalde çalıştıralım
 paketlerin tümü yüklenince "npm run dev" komutu ile proje çalışıcaktır
+
+
+<img src="https://img001.prntscr.com/file/img001/ABmrJ1_wRpWDa06bwOJQgg.png">
